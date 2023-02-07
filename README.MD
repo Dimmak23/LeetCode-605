@@ -29,6 +29,10 @@ https://leetcode.com/problems/can-place-flowers/submissions/893220065/
 
 Or see pictures:
 
+![image](https://user-images.githubusercontent.com/36036315/217207494-21186c39-b665-4eef-b9db-0aa31899d254.png)
+
+![image](https://user-images.githubusercontent.com/36036315/217207558-56b92c00-52cb-4cee-b94c-94870441606c.png)
+
 To run tests in you environment:
 
 1. Clone googletest:
